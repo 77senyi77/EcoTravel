@@ -1,0 +1,3 @@
+EcoTravel
+Introduction
+Welcome to EcoTravel! EcoTravel is a sustainable travel planning platform designed to help travelers explore the world while minimizing their environmental impact. Whether you're planning a weekend getaway, a backpacking adventure, or a family vacation, EcoTravel provides the tools and resources you need to discover eco-friendly destinations, transportation options, and accommodations. Say goodbye to carbon footprints and hello to responsible travel with EcoTravel!
